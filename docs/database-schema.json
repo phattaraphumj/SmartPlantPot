@@ -1,0 +1,21 @@
+{
+  "soil-moisture": {
+    "value": 45,
+    "status": "normal",
+    "min": 0,
+    "max": 100
+  },
+  "water-level": {
+    "value": 70,
+    "status": "normal",
+    "min": 0,
+    "max": 100
+  },
+  "pump-control": {
+    "status": "OFF",
+    "mode": "AUTO",
+    "threshold": 40,
+    "manualTrigger": false,
+    "plantPreset": "indoor"
+  }
+}
